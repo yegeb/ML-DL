@@ -1,4 +1,4 @@
-"# ML/DL Course Projects
+# ML/DL Course Projects
 
 This is my repository for projects completed as part of my Tensorflow for Deep Learning Bootcamp online course. In these projects, I explored key ML/DL concepts and applied them to real-world datasets.
 
